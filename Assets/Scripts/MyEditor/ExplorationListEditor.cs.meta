@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 68a970f3e5188bf4f9f84a7682b73bfa
+timeCreated: 1471617307
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - CameraPrefab: {fileID: 180810, guid: fdedcce55882a46188c7dc35aa247820, type: 2}
+  - DisplayPrefab: {fileID: 124356, guid: d93e3c1a12f580046892f15cee9ae31c, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
